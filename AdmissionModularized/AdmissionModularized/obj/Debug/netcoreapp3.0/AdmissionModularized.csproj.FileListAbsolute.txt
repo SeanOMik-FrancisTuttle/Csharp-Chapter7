@@ -1,0 +1,11 @@
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\bin\Debug\netcoreapp3.0\AdmissionModularized.exe
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\bin\Debug\netcoreapp3.0\AdmissionModularized.deps.json
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\bin\Debug\netcoreapp3.0\AdmissionModularized.runtimeconfig.json
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\bin\Debug\netcoreapp3.0\AdmissionModularized.runtimeconfig.dev.json
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\bin\Debug\netcoreapp3.0\AdmissionModularized.dll
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\bin\Debug\netcoreapp3.0\AdmissionModularized.pdb
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\obj\Debug\netcoreapp3.0\AdmissionModularized.csprojAssemblyReference.cache
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\obj\Debug\netcoreapp3.0\AdmissionModularized.AssemblyInfoInputs.cache
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\obj\Debug\netcoreapp3.0\AdmissionModularized.AssemblyInfo.cs
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\obj\Debug\netcoreapp3.0\AdmissionModularized.dll
+C:\Users\se1028304\source\repos\AdmissionModularized\AdmissionModularized\obj\Debug\netcoreapp3.0\AdmissionModularized.pdb

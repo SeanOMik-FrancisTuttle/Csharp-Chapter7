@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\bin\Debug\netcoreapp3.0\CountVowelsModularized.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\bin\Debug\netcoreapp3.0\CountVowelsModularized.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\bin\Debug\netcoreapp3.0\CountVowelsModularized.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\bin\Debug\netcoreapp3.0\CountVowelsModularized.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\bin\Debug\netcoreapp3.0\CountVowelsModularized.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\bin\Debug\netcoreapp3.0\CountVowelsModularized.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\obj\Debug\netcoreapp3.0\CountVowelsModularized.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\obj\Debug\netcoreapp3.0\CountVowelsModularized.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\obj\Debug\netcoreapp3.0\CountVowelsModularized.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\CountVowelsModularized\CountVowelsModularized\obj\Debug\netcoreapp3.0\CountVowelsModularized.pdb

@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\bin\Debug\netcoreapp3.0\SalesLetter.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\bin\Debug\netcoreapp3.0\SalesLetter.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\bin\Debug\netcoreapp3.0\SalesLetter.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\bin\Debug\netcoreapp3.0\SalesLetter.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\bin\Debug\netcoreapp3.0\SalesLetter.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\bin\Debug\netcoreapp3.0\SalesLetter.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\obj\Debug\netcoreapp3.0\SalesLetter.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\obj\Debug\netcoreapp3.0\SalesLetter.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\obj\Debug\netcoreapp3.0\SalesLetter.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\SalesLetter\SalesLetter\obj\Debug\netcoreapp3.0\SalesLetter.pdb

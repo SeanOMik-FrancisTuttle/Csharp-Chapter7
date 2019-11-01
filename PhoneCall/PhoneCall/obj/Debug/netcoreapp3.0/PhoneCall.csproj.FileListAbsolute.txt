@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\bin\Debug\netcoreapp3.0\PhoneCall.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\bin\Debug\netcoreapp3.0\PhoneCall.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\bin\Debug\netcoreapp3.0\PhoneCall.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\bin\Debug\netcoreapp3.0\PhoneCall.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\bin\Debug\netcoreapp3.0\PhoneCall.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\bin\Debug\netcoreapp3.0\PhoneCall.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\obj\Debug\netcoreapp3.0\PhoneCall.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\obj\Debug\netcoreapp3.0\PhoneCall.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\obj\Debug\netcoreapp3.0\PhoneCall.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\PhoneCall\PhoneCall\obj\Debug\netcoreapp3.0\PhoneCall.pdb

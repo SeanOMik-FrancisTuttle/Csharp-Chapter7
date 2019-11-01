@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\bin\Debug\netcoreapp3.0\DemoLogo.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\bin\Debug\netcoreapp3.0\DemoLogo.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\bin\Debug\netcoreapp3.0\DemoLogo.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\bin\Debug\netcoreapp3.0\DemoLogo.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\bin\Debug\netcoreapp3.0\DemoLogo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\bin\Debug\netcoreapp3.0\DemoLogo.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\obj\Debug\netcoreapp3.0\DemoLogo.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\obj\Debug\netcoreapp3.0\DemoLogo.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\obj\Debug\netcoreapp3.0\DemoLogo.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\obj\Debug\netcoreapp3.0\DemoLogo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter7\DemoLogo\DemoLogo\obj\Debug\netcoreapp3.0\DemoLogo.pdb
